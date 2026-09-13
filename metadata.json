@@ -1,0 +1,6 @@
+{
+  "name": "UserTrack — Система мониторинга и анализа сетевых угроз",
+  "description": "Программный комплекс информационной безопасности «UserTrack»: мониторинг сетевых событий, поведенческий анализ (UEBA), модуль IPS-блокировок, хранилище SQLite и панель аналитики безопасности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
